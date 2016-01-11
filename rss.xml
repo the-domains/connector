@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Connector]]></title>
+        <description><![CDATA[Connector]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 14:43:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ibanez S320 Servis]]></title>
+            <description><![CDATA[<article><h1>Ibanez S320 Servis</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a03f849b-470e-4435-be18-4d9c9587ca3e.JPG"></article>]]></description>
+            <link>undefinedibanez-s320-servis/index.html</link>
+            <guid isPermaLink="false">04621a7e-7523-401a-9bf6-318f62f8d0cb</guid>
+            <pubDate>Mon, 11 Jan 2016 14:43:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
