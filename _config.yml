@@ -1,0 +1,28 @@
+name: Connector
+favicon: null
+layout_spectrum: 0.07529008854180574
+typography_spectrum: 0.967279763892293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9438249638769776
+  lightness: 0.6402629802469164
+  saturation: 0.7120161820203066
+  rhythmicContrast: 0.6571253654547036
+purpose: []
