@@ -1,6 +1,6 @@
 name: Connector
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25686
 typography_spectrum: 0.80402
 title: 'Zeljko "Connector"'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.1875
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.625
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
