@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T14:47:56.463Z'
-dateModified: '2016-01-11T14:47:39.082Z'
+datePublished: '2016-01-11T15:11:29.910Z'
+dateModified: '2016-01-11T15:11:26.881Z'
 title: Ibanez S320 Servis
 author: []
 sourcePath: _posts/2016-01-11-ibanez-s320-servis.md
